@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.qwer{
+    background-color: black;
+    color: white;
+}
+.section1{
+    ul{
+        li{
+            button{
+                width: 90px;
+            }
+        }
+    }
+}
+
+.not{
+    button{
+        border: none;
+        background-color: rgb(230, 230, 230);
+    }
+    .fanta{
+        background-color: black;
+        color: white;
+    }
+}
+
+.section4{
+    .alo{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 100px;
+       .new{
+        border: 1px solid rgba(0, 0, 0, 0.159);
+        width: 350px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       }
+       
+        h1{
+            border-bottom: 1px;
+            border-bottom: solid;
+            display: flex;
+            justify-content: center;
+            height: 100px;
+            background-color: black;
+            color: white;
+            align-items: center;
+        }
+        
+        h3{
+            border-bottom: 1px;
+            border-bottom: solid;
+            border-color: rgba(0, 0, 0, 0.095);
+            display: flex;
+            justify-content: center;
+            height: 50px;
+            align-items: center;
+            font-weight: 500;
+            font-size: 23px;
+        }
+        .don1{
+            background-color: rgb(86, 86, 86);
+        }
+        .don3{
+            background-color: rgb(86, 86, 86);
+        }
+        .don2{
+            background-color: rgb(178, 180, 187);
+        }
+        h2{
+            display: flex;
+            justify-content: center;
+            font-size: 40px;
+        }
+        .no{
+            color: rgb(128, 128, 128);
+        }
+        h4{
+            width: 125px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(186, 189, 201);
+            color: white;
+        }
+        .what{
+            height: 70px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(211, 211, 211, 0.173);
+        }
+        .devon:hover{
+            .don1{
+                background-color: black;
+            }
+            .don3{
+                background-color: black;
+            }
+            .what{
+                h4{
+                    background-color: rgb(171, 172, 179);
+                }
+                h4:hover{
+                    background-color: black;
+                    color: white;
+                }
+            }
+        }
+        .dont:hover{
+            .don2{
+                background-color: rgb(186, 189, 201);
+            }
+            .what{
+                h4{
+                    background-color: rgb(171, 172, 179);
+                }
+                h4:hover{
+                    background-color: black;
+                    color: white;
+                }
+            }
+        }
+    }
+    span{
+        font-weight: 800;
+    }
+}
+.whu{
+    form{
+        button{
+            background-color: black;
+             color: white;
+        }
+    }
+}
+.but{
+    button{
+        margin: 3px;
+        background-color: gray;
+        color: white;
+    }
+}
